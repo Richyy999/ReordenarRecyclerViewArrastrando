@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReordenarRecyclerViewArrastrando</string>
+    <string name="descImgIcono">Icono de la aplicación</string>
+    <string name="prioridad">Prioridad:</string>
+</resources>
